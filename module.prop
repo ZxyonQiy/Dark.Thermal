@@ -1,0 +1,7 @@
+id=DarkThermal
+name=Dark Thermal
+version=v1.0 C lang
+versionCode=10
+author=@ZxyonQiy
+description=Disable thermal Dark (Using the C lang programming language)
+update.json=https://raw.githubusercontent.com/ZxyonQiy/Dark.Thermal/main/update.json
